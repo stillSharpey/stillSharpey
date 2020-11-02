@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Sharpey</h1>
 <h3 align="center">I'm a Web Developer</h3>
 
-- 🔭 I’m currently working on **Venus**
-
+- I’m currently working on **Venus**
 - My email: **sharpey@riseup.net**
 
 <h3 align="left">Connect with me:</h3>
